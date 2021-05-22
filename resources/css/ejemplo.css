@@ -1,0 +1,8 @@
+a{
+    background-color: aqua;
+    color: red;
+}
+
+a:nth-child(1){
+    border-bottom: 2px solid blue;
+}
